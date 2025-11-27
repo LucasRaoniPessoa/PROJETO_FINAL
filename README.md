@@ -1,7 +1,7 @@
 # PROJETO_FINAL
 # Readme sobre o projeto
 
-Projeto CRUD em Python — README
+Projeto CRUD
 📌 1. Descrição do Projeto
 Este projeto consiste em um sistema CRUD simples desenvolvido em Python, criado para fins educacionais em disciplinas de Desenvolvimento de Algoritmos.
 Ele permite:
